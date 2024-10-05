@@ -157,7 +157,7 @@ Special Thanks
 
 
 License
--------
+-------1
 zlib/libpng
 
 Copyright
